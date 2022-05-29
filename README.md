@@ -1,8 +1,8 @@
 ## Sobre 
 
 <p align="left"> 
-  Oi, sou Marcelo Filho, no momento graduando em <strong>Engenharia de Computação</strong> (2017 - 2022).<br>
-  E <strong>Estagiário em Desenvolvimento de sistemas na DATAMETRICA TELEATENDIMENTO S/A</strong>, utilizando Java e Spring boot para a criação de APIs, JSF e Primefaces para manutenção do sistema interno de ponto da empresa e SQL para consultas de banco de dados.
+  Oi, sou Marcelo Filho, graduando em <strong>Engenharia de Computação</strong> (2017 - 2022) no <strong>IFPB Campina Grande</strong>.<br>
+  E <strong>Estagiário em Desenvolvimento de sistemas na DATAMETRICA TELEATENDIMENTO S/A</strong>, utilizando Java e Spring boot para a criação de APIs, JSF e Primefaces para manutenção do sistema interno de ponto da empresa e SQL para consultas no banco de dados.
 </p>
 
 <p align="left">
