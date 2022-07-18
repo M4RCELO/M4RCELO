@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Oi, sou Marcelo Filho, graduando em <strong>Engenharia de Computação</strong> (2017 - 2022) no <strong>IFPB Campina Grande</strong>.<br>
-  E <strong>Estagiário em Desenvolvimento de sistemas na DATAMETRICA TELEATENDIMENTO S/A</strong>, utilizando Java e Spring boot para a criação de APIs, JSF e Primefaces para manutenção do sistema interno de ponto da empresa e SQL para consultas no banco de dados.
+  Desenvolvo aplicações back-end com Python e Java, front-end WEB/Mobile com Flutter. Sou entusiasta em Criptomoedas, NFT, Web 3.0 e Tecnologias em geral.
 </p>
 
 <p align="left">
